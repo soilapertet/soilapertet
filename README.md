@@ -5,10 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1000&color=0077FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Backend,+Cloud,+and+Database+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
+- 😄 Pronouns: She/her
 - 🎓 Computer Science student at the University of Calgary (Class of 2026)  
 - 💻 Interested in backend development, cloud deployment, and database design  
 - 🌱 Currently learning Amazon Web Services (AWS)  
-- 😄 Pronouns: She/her  
+  
 
 ## 🛠 Tech Stack  
 
